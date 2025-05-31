@@ -7,4 +7,3 @@ echo "How are you?"
 echo "I am learning branching in Git"
 echo "I am practicing gitHub using AWS"
 echo "Testing git pull"
-

@@ -3,4 +3,5 @@
 ls -lrt
 echo $?
 echo "here if the value is 0 this command is sucessful"
-echo "here if the value is 1 this command is unsuccessful"
+echo "here if the value is 12 this command is unsuccessful"
+echi "Testing"
